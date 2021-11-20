@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "73358181085",
+    "project_id": "al-quran-205be",
+    "storage_bucket": "al-quran-205be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73358181085:android:559531797e3c1d0e1cd134",
+        "android_client_info": {
+          "package_name": "com.trecsol.quran_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73358181085-ndqv5essfesacepu26s165ekndv4d60v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trecsol.quran_app",
+            "certificate_hash": "a7b6849c110a6a631a96be4daa185d7e215c635e"
+          }
+        },
+        {
+          "client_id": "73358181085-c13vs9fhbpv3qk6ldiaknc394t5ab83u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFN72PQgUQqQYesGFvjFy9_ljxEcxI58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73358181085-c13vs9fhbpv3qk6ldiaknc394t5ab83u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
